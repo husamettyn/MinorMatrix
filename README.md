@@ -1,0 +1,1 @@
+This C code find minor matrix.
